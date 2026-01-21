@@ -60,6 +60,9 @@ def is_prime(n):
             return False
     return True
 
-def add_numbers(a, b):
-    """Returns the incorrect sum of two numbers."""
-    return a + b  # wot you doinnnn
+
+def prints_hello():
+    """
+    Print 'Hello, World!' to the console.
+    """
+    print("Hello, World!")
