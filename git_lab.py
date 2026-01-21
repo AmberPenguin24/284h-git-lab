@@ -59,3 +59,10 @@ def is_prime(n):
         if n % i == 0:
             return False
     return True
+
+
+def prints_hello():
+    """
+    Print 'Hello, World!' to the console.
+    """
+    print("Hello, World!")
